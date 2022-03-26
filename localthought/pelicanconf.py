@@ -27,6 +27,12 @@ SOCIAL = (('twitter', 'https://twitter.com/noatgnuhp'),
           ('linkedin', 'https://www.linkedin.com/in/toan-phung-347941a0/'),)
 
 DEFAULT_PAGINATION = 10
-
+AUTHORS_BIO = {
+  "Toan Phung": {
+    "name": "Toan Phung",
+    "website": "https://www.localthought.me",
+    "bio": "I am just a lone scientist tinkering with hardware and software. Unless explicitly indicated, all opinions expressed here on this website are mine and mine alone."
+  }
+}
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
