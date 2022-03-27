@@ -1,4 +1,4 @@
-{% extends "index.html" %}
+﻿{% extends "index.html" %}
 
 {% block title %}{{ SITENAME }} - Articles by {{ author }}{% endblock %}
 
@@ -31,7 +31,7 @@
           </span>
         </nav>
         {% if HEADER_COVER %}
-            <div class="blog-cover cover" style="background-image: url('{{ HEADER_COVER }}')">            
+            <div class="blog-cover cover" style="background-image: url('{{ SITEURL }}/{{ HEADER_COVER }}')">
         {% elif HEADER_COLOR %}
             <div class="post-cover cover" style="background-color: {{ HEADER_COLOR }}">
         {% else %}
