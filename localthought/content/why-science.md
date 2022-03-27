@@ -14,6 +14,6 @@ img[src$="#figure1"] {
 }
 </style>
 
-My path in science s a bit of a combination between 
+Everyone's path to science differentiate slightly. Some follow it as an idealistic passion since the start of their career in academia while others stumble into it and found their path in science later in life.
 
 ![figure1]({static}static/figure1.png#figure1)
