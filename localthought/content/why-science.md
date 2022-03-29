@@ -1,7 +1,8 @@
 Title: Why I am a scientist
 Date: 2022-03-26 10:20
 Category: Local Thought
-
+Authors: Toan Phung
+Summary: The reason why works of science fiction are my inspiration to be a scientist.
 
 Everyone's path to science differentiate slightly. 
 Some follow it as an idealistic passion since the start of their career in academia while others stumble into it and found their path in science later in life.
