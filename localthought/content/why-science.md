@@ -65,7 +65,7 @@ It is an atmospheric horror science fiction about humanity at the end of its lif
 Here, to the main characters, there was still a small hope where human could potentially survive in a digital world away from the dying planet.
 
 ![soma_alice]({static}static/soma_alice.jpg#alice)
-<figcaption align="center"><small><b>Concept art depiction of Alice Wong, a character from Soma the game</b></small></figcaption>
+<figcaption align="center"><small><b>Concept art depiction of Catherine Wong, a character from Soma the game</b></small></figcaption>
 While the solution to save humanity seemed to be still depressing, it also presents a question whether our digital self is human.
 Would humanity still be humanity if we are just bit and byte in a server floating in space?
 
